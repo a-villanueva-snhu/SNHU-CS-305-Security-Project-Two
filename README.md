@@ -2,6 +2,7 @@
 The final project for CS 305
 
 **Secure REST Service for Artemis Financial**
+
 This project is a Java Spring Boot application refactored to enhance security for a fictional client, Artemis Financial. The primary goals were to remediate critical dependency vulnerabilities, implement secure communication protocols, and add a cryptographic hashing feature for data integrity.
 
 **Key Features **
